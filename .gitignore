@@ -57,3 +57,6 @@ docs/_build/
 
 # Temporary packages
 *.zip
+
+*.pid
+*.cache

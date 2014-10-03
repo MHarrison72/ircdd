@@ -15,6 +15,6 @@ setup(name="ircdd",
       install_requires=['twisted', ],
       setup_requires=["flake8", "nose", ],
       packages=find_packages(),
-      scripts=["bin/ircdd.py", ],
+      scripts=["bin/ircdd.sh", ],
       test_suite="nosetests",
       )
